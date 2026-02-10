@@ -253,7 +253,7 @@ Some resources may have deletion protection or dependencies. Check:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/v1-cloudformation-cleanup.git
+git clone https://github.com/jmlake569/v1-cloudformation-cleanup.git
 cd v1-cloudformation-cleanup
 
 # Install Python dependencies
